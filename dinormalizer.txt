@@ -1,0 +1,15 @@
+empno,ename,skills
+100,mahesh,informatica
+100,mahesh,talend
+100,mahesh,oracle
+101,kalyan,A
+101,kalyan,B
+101,kalyan,C
+101,kalyan,D
+100,mahesh,informatica
+100,mahesh,talend
+100,mahesh,oracle
+101,kalyan,A
+101,kalyan,B
+101,kalyan,C
+101,kalyan,D

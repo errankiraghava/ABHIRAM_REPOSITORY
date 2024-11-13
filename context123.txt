@@ -1,0 +1,3 @@
+source_file_location,C:\Users\Analytix\Desktop\jayanth\emp.txt
+source_db_host,localhost
+source_db_port,1433
